@@ -16,4 +16,4 @@ Unable to complete this homework project. Struggled with figuiring out how to ge
 
 
 Link to deployed application 
-Website URL:[Work-Day-Scheduler](https://molano1979.github.io/work-day-scheduler/)
+Website URL:[Work-Day-Scheduler](https://molano1979.github.io/Work-Day-Scheduler/)
