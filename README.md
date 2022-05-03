@@ -1,11 +1,10 @@
 # Work-Day-Scheduler
+
+![planner](./screen-shot.png)
 ## Description 
 
 This application is supposed to use jquery, bootstrap, and moment.js to create evens in a day planner. The requirement is that events be entered in the schedule for each hour and the app will keep track of time by coloring each hour with colors for past, present, and future.
 
-## Usage 
-
-Unable to complete this homework project. Struggled with figuiring out how to get code from Bootstrap and Moments to create the calendar.
 
 ## Technology Used
 
@@ -17,3 +16,9 @@ Unable to complete this homework project. Struggled with figuiring out how to ge
 
 Link to deployed application 
 Website URL:[Work-Day-Scheduler](https://molano1979.github.io/Work-Day-Scheduler/)
+
+
+## Questions
+✉️ Contact me with any questions: [email](mailto:dmmolano@yahoo.com) , [GitHub](https://github.com/molano1979)<br />
+
+![profile picture](/profilepic.jpeg)
